@@ -1,11 +1,11 @@
-# DHMLCR2022
+# DHM2022
 Course repository
 
 ## Course Info
 Title: DH Methods of Literary and Cultural Research for Sinologists
 
 
-Lecturers: Xiaojie CHANG, Jia XIE, Shimin Zhang
+Lecturers: Xiaojie CHANG, Jia XIE, Shimin ZHANG
 
 ## Link
 [Moodle Page](https://moodle.uni-heidelberg.de/course/view.php?id=15681)
